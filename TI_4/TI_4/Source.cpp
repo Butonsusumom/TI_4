@@ -237,6 +237,7 @@ long long CheckD(string s, long long f) {
 	}
 	if (res > 1) {
 		if (res < f) {
+			if (isCoprime(f, res))
 			return res;
 		}
 	}

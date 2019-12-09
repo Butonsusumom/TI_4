@@ -11,18 +11,18 @@ c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(190): warning C4101: 'ex': unr
 c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(199): warning C4018: '<': signed/unsigned mismatch
 c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(215): warning C4018: '<': signed/unsigned mismatch
 c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(234): warning C4018: '<': signed/unsigned mismatch
-c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(248): warning C4018: '<': signed/unsigned mismatch
-c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(263): warning C4018: '<': signed/unsigned mismatch
-c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(330): warning C4101: 'c': unreferenced local variable
-c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(478): warning C4101: 'hdc': unreferenced local variable
-c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(477): warning C4101: 'ps': unreferenced local variable
-c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(601): warning C4101: 'k': unreferenced local variable
-c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(601): warning C4101: 'y': unreferenced local variable
-c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(601): warning C4101: 'x': unreferenced local variable
-c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(601): warning C4101: 'g': unreferenced local variable
-c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(642): warning C4101: 'k': unreferenced local variable
-c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(642): warning C4101: 'y': unreferenced local variable
-c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(642): warning C4101: 'x': unreferenced local variable
-c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(642): warning C4101: 'g': unreferenced local variable
-c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(642): warning C4101: 'd': unreferenced local variable
+c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(249): warning C4018: '<': signed/unsigned mismatch
+c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(264): warning C4018: '<': signed/unsigned mismatch
+c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(331): warning C4101: 'c': unreferenced local variable
+c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(479): warning C4101: 'hdc': unreferenced local variable
+c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(478): warning C4101: 'ps': unreferenced local variable
+c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(602): warning C4101: 'k': unreferenced local variable
+c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(602): warning C4101: 'y': unreferenced local variable
+c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(602): warning C4101: 'x': unreferenced local variable
+c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(602): warning C4101: 'g': unreferenced local variable
+c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(643): warning C4101: 'k': unreferenced local variable
+c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(643): warning C4101: 'y': unreferenced local variable
+c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(643): warning C4101: 'x': unreferenced local variable
+c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(643): warning C4101: 'g': unreferenced local variable
+c:\users\ksusha\source\repos\ti_4\ti_4\source.cpp(643): warning C4101: 'd': unreferenced local variable
   TI_4.vcxproj -> C:\Users\Ksusha\Source\Repos\TI_4\Debug\TI_4.exe
